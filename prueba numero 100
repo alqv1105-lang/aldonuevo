@@ -12,4 +12,4 @@ def registrar_venta(precio, cantidad):
 
 print("Subtotal:", calcular_subtotal(50, 3, 10))
 print("Importe:", registrar_venta(50, 3))
-  
+   
